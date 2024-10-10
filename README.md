@@ -1,4 +1,4 @@
-# RAG-Personalized-AI
+
 
 # RAG Personalized AI Assistant
 
