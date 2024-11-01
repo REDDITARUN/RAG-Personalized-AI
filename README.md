@@ -1,9 +1,10 @@
 
 
-# RAG Personalized AI Assistant
+# Personalized AI Assistant Using RAG
 
 This repository demonstrates how to build an AI assistant using Retrieval-Augmented Generation (RAG) models. The assistant can retrieve and answer questions based on personal documents (like PDFs). It’s a practical implementation that leverages the power of LangChain, FAISS vector stores, and Ollama models.
 
+Check out my blog for more information: https://medium.com/@teendifferent/unlocking-ai-superpowers-with-rag-smarter-answers-from-your-personal-data-c6accabf013c
 ## Features
 - Use of **RAG models** to efficiently retrieve and generate answers from large documents.
 - **Embeddings** with Ollama for document chunking and comparison.
